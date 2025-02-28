@@ -17,7 +17,6 @@
     --blacktype: #9f6ea3;
     --lightblack: #515C6F;
     --white: #ffffff;
-    --black: #000000;
     --darkwhite: #cecaca;
     --pinkshadow: #ffcbdd;
     --lightbshadow: rgba(0, 0, 0, 0.364);
@@ -47,8 +46,7 @@ body{
     border-radius: 15px;
     background: var(--white);
     box-shadow: 0px 6px 15px var(--lightbshadow);
-}o
-
+}
 
 .wrapper i{
     cursor: pointer;
@@ -70,25 +68,14 @@ body{
     margin-right: 10px;
 }
 
-.top-bar, .progress-area .song-timer, .controls, .music-list .header, .music-list ul li {
+.progress-area .song-timer, .controls, .music-list .header, .music-list ul li {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
-.top-bar i{
-  font-size: 30px;
-  color: var(--lightblack);
-}
-
-.top-bar span{
-    font-size: 18px;
-    margin-left: -3px;
-    color: var(--lightblack);
-}
-
 .img-area{
-    width: 70%;
+    width: 235px;
     height: 235px;
     margin: auto;
     overflow: hidden;
@@ -325,7 +312,7 @@ input[type="range"]::-webkit-slider-thumb {
 
 .music-list ul{
     margin: 10px 0;
-    max-height: 300px;
+    max-height: 350px;
     overflow: auto;
 }
 
