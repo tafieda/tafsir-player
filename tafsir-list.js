@@ -1,5 +1,5 @@
 let allMusic = [
-    {
+   /* {
         name: "Shape-of-You",
         artist: "Ed Sheeran",
         img: "music-1",
@@ -46,7 +46,7 @@ let allMusic = [
         artist: "Justin Beiber",
         img: "music-8",
         src: "music-8"
-    },
+    },*/
     {
         name: "Sugar and Brownies",
         artist: "Dharia",
