@@ -58,5 +58,5 @@ let allMusic = [
         artist: "Alan Walker",
         img: "music-10",
         src: "music-10"
-    },
-];*/
+    },*/
+];
