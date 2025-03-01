@@ -1,12 +1,12 @@
 let allMusic = [
    {
-        name: "001 Suratu Ali Imran v.149",
+        name: "001 Suratu Ali Imran",
         artist: "Prof. Isa Ali Ibrahim Pantami",
         img: "pantami",
         src: "Suratu\ Ali\ Imran"
     },
     {
-        name: "001 Suratul Hujrat (Tafseer 2025)",
+        name: "001 Suratul Hujrat",
         artist: "Sheikh Ahmad Tijjani Guruntum",
         img: "guruntum",
         src: "music-1"
