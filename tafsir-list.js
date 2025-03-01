@@ -53,10 +53,10 @@ let allMusic = [
         img: "9B1E675C-A2DD-4F57-8997-C00B630347F9",
         src: "001 Suratul Hujrat (Tafseer 2025)"
     },
-    {
+    /*{
         name: "Faded",
         artist: "Alan Walker",
         img: "music-10",
         src: "music-10"
     },
-];
+];*/
