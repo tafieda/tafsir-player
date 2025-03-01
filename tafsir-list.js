@@ -48,10 +48,10 @@ let allMusic = [
         src: "music-8"
     },*/
     {
-        name: "Sugar and Brownies",
-        artist: "Dharia",
+        name: "001 Suratul Hujrat (Tafseer 2025)",
+        artist: "Sheikh Ahmad Tijjani Guruntum",
         img: "music-9",
-        src: "music-9"
+        src: "001 Suratul Hujrat (Tafseer 2025)"
     },
     {
         name: "Faded",
