@@ -50,8 +50,8 @@ let allMusic = [
     {
         name: "001 Suratul Hujrat (Tafseer 2025)",
         artist: "Sheikh Ahmad Tijjani Guruntum",
-        img: "9B1E675C-A2DD-4F57-8997-C00B630347F9",
-        src: "001 Suratul Hujrat (Tafseer 2025)"
+        img: "music-1",
+        src: "music-1"
     },
     /*{
         name: "Faded",
