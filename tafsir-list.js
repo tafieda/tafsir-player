@@ -1,9 +1,9 @@
 let allMusic = [
-   /* {
-        name: "Shape-of-You",
-        artist: "Ed Sheeran",
-        img: "music-1",
-        src: "music-1"
+    {
+        name: "001 Suratu Ali Imran v.149",
+        artist: "Prof. Isa Ali Ibrahim Pantami",
+        img: "pantami",
+        src: "Suratu Ali Imran"
     },
     {
         name: "Calm-Down",
@@ -46,7 +46,7 @@ let allMusic = [
         artist: "Justin Beiber",
         img: "music-8",
         src: "music-8"
-    },*/
+    },
     {
         name: "001 Suratul Hujrat (Tafseer 2025)",
         artist: "Sheikh Ahmad Tijjani Guruntum",
