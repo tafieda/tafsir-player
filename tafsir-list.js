@@ -6,48 +6,6 @@ let allMusic = [
         src: "Suratu Ali Imran"
     },
     {
-        name: "Calm-Down",
-        artist: "Rema, Selena Gomez",
-        img: "music-2",
-        src: "music-2"
-    },
-    {
-        name: "Let Me Down Slowly",
-        artist: "Alec Benjamin",
-        img: "music-3",
-        src: "music-3"
-    },
-    {
-        name: "Love Me Like You Do",
-        artist: "Ellie Goulding",
-        img: "music-4",
-        src: "music-4"
-    },
-    {
-        name: "Starboy",
-        artist: "The Weeknd",
-        img: "music-5",
-        src: "music-5"
-    },
-    {
-        name: "Girls Like You",
-        artist: "Maroon 5",
-        img: "music-6",
-        src: "music-6"
-    },
-    {
-        name: "On My Way",
-        artist: "Alan Walker",
-        img: "music-7",
-        src: "music-7"
-    },
-    {
-        name: "Sorry",
-        artist: "Justin Beiber",
-        img: "music-8",
-        src: "music-8"
-    },
-    {
         name: "001 Suratul Hujrat (Tafseer 2025)",
         artist: "Sheikh Ahmad Tijjani Guruntum",
         img: "music-1",
