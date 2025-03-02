@@ -11,10 +11,10 @@ let allMusic = [
         img: "guruntum",
         src: "music-1"
     },
-    /*{
-        name: "Faded",
-        artist: "Alan Walker",
-        img: "music-10",
-        src: "music-10"
-    },*/
+    {
+        name: "001 Suratul Ankabut",
+        artist: "Sheikh Ahmad Tijjani Guruntum",
+        img: "guruntum",
+        src: "music-3"
+    },
 ];
