@@ -2,7 +2,7 @@ let allMusic = [
    {
         name: "001 Suratu Ali Imran",
         artist: "Prof. Isa Ali Ibrahim Pantami",
-        img: "pantami",
+        img: "music-2",
         src: "Suratu\ Ali\ Imran"
     },
     {
