@@ -12,7 +12,7 @@ let allMusic = [
         src: "music-2"
     },
     {
-        name: "001 Suratul Ankabut",
+        name: "01 Suratul Ankabut",
         artist: "Sheikh Ahmad Tijjani Guruntum",
         img: "music-3",
         src: "music-3"
