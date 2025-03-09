@@ -113,4 +113,22 @@ let allMusic = [
         img: "music-19",
         src: "music-19"
     },
+    {
+        name: "08 Lesson 01 - Suratul Hujrat",
+        artist: "Sheikh Ahmad Tijjani Guruntum",
+        img: "music-20",
+        src: "music-20"
+    },
+    {
+        name: "08 Suratul Aal-Imran",
+        artist: "Prof Isa Ali Ibrahim Pantami",
+        img: "music-21",
+        src: "music-21"
+    },
+    {
+        name: "08 Lesson 02 - Suratul Ankabut",
+        artist: "Sheikh Ahmad Tijjani Guruntum",
+        img: "music-22",
+        src: "music-22"
+    },
 ];
