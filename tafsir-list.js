@@ -197,4 +197,52 @@ let allMusic = [
         img: "music-33",
         src: "music-33"
     },
+    {
+        name: "13 Lesson 01 - Suratul Qaaf",
+        artist: "Sheikh Ahmad Tijjani Guruntum",
+        img: "music-34",
+        src: "music-34"
+    },
+    {
+        name: "13 Suratul Aal-Imran",
+        artist: "Prof Isa Ali Ibrahim Pantami",
+        img: "music-35",
+        src: "music-35"
+    },
+    {
+        name: "14 Lesson 01 - Suratul Qaaf",
+        artist: "Sheikh Ahmad Tijjani Guruntum",
+        img: "music-36",
+        src: "music-36"
+    },
+    {
+        name: "14 Suratul Aal-Imran",
+        artist: "Prof Isa Ali Ibrahim Pantami",
+        img: "music-37",
+        src: "music-37"
+    },
+    {
+        name: "14 Lesson 02 - Suratul Ankabut",
+        artist: "Sheikh Ahmad Tijjani Guruntum",
+        img: "music-38",
+        src: "music-38"
+    },
+    {
+        name: "15 Lesson 01 - Suratul Qaaf",
+        artist: "Sheikh Ahmad Tijjani Guruntum",
+        img: "music-39",
+        src: "music-39"
+    },
+    /*{
+        name: "15 Suratul Aal-Imran",
+        artist: "Prof Isa Ali Ibrahim Pantami",
+        img: "music-37",
+        src: "music-37"
+    },*/
+    {
+        name: "15 Lesson 02 - Suratul Ankabut",
+        artist: "Sheikh Ahmad Tijjani Guruntum",
+        img: "music-41",
+        src: "music-41"
+    },
 ];
