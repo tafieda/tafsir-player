@@ -281,4 +281,10 @@ let allMusic = [
         img: "music-47",
         src: "music-47"
     },
+    {
+        name: "22 Suratul Aal-Imran",
+        artist: "Prof Isa Ali Ibrahim Pantami",
+        img: "music-48",
+        src: "music-48"
+    },
 ];
